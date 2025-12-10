@@ -3,7 +3,7 @@ package Projects;
 import java.util.*;
 import java.text.*;
 
-public class MortgageCalculator3 {
+public class MortgageCalculator2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
